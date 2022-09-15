@@ -1,0 +1,15 @@
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\obj\Debug\net6.0\HardStat.csproj.AssemblyReference.cache
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\obj\Debug\net6.0\HardStat.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\obj\Debug\net6.0\HardStat.AssemblyInfoInputs.cache
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\obj\Debug\net6.0\HardStat.AssemblyInfo.cs
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\obj\Debug\net6.0\HardStat.csproj.CoreCompileInputs.cache
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\bin\Debug\net6.0\HardStat.exe
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\bin\Debug\net6.0\HardStat.deps.json
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\bin\Debug\net6.0\HardStat.runtimeconfig.json
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\bin\Debug\net6.0\HardStat.dll
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\bin\Debug\net6.0\HardStat.pdb
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\obj\Debug\net6.0\HardStat.dll
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\obj\Debug\net6.0\refint\HardStat.dll
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\obj\Debug\net6.0\HardStat.pdb
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\obj\Debug\net6.0\HardStat.genruntimeconfig.cache
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardStat\obj\Debug\net6.0\ref\HardStat.dll
