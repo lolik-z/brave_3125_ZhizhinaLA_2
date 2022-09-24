@@ -1,0 +1,15 @@
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\obj\Debug\net6.0\HardSort.csproj.AssemblyReference.cache
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\obj\Debug\net6.0\HardSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\obj\Debug\net6.0\HardSort.AssemblyInfoInputs.cache
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\obj\Debug\net6.0\HardSort.AssemblyInfo.cs
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\obj\Debug\net6.0\HardSort.csproj.CoreCompileInputs.cache
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\bin\Debug\net6.0\HardSort.exe
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\bin\Debug\net6.0\HardSort.deps.json
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\bin\Debug\net6.0\HardSort.runtimeconfig.json
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\bin\Debug\net6.0\HardSort.dll
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\bin\Debug\net6.0\HardSort.pdb
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\obj\Debug\net6.0\HardSort.dll
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\obj\Debug\net6.0\refint\HardSort.dll
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\obj\Debug\net6.0\HardSort.pdb
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\obj\Debug\net6.0\HardSort.genruntimeconfig.cache
+C:\GB\brave_3125_ZhizhinaLA_2\tasks\HardSort\obj\Debug\net6.0\ref\HardSort.dll
